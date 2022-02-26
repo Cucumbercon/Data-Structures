@@ -1,4 +1,4 @@
-Sean Pastore (811913713) Smp28156@uga.edu
+
 
 To compile:
 $make compile
